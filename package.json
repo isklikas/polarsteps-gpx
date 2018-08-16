@@ -1,0 +1,17 @@
+{
+  "name": "PolarSteps-GPX",
+  "version": "1.0.0",
+  "description": "A NodeJS script that converts the locations.json of PolarSteps, to the Universal GPX file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": "https://github.com/isklikas/polarsteps-gpx",
+  "author": "isklikas",
+  "license": "MIT",
+  "dependencies": {
+    "file-system": "^2.2.2"
+  },
+  "devDependencies": {}
+}

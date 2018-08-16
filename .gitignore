@@ -1,0 +1,4 @@
+trip.gpx
+locations.json
+node_modules/*
+.DS_Store
